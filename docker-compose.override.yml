@@ -1,0 +1,25 @@
+version: "3.8"
+services:
+  hepsiyemekMongoDB:
+    container_name: HepsiyemekDB
+    restart: always
+    ports: 
+      - "27017:27017"
+    volumes:
+      - HepsiyemekDB_volume:/data/db
+  redis:
+    container_name: redis
+    restart: always
+    ports:
+      - "6379:6379"
+  menu.api:
+    container_name: menu.api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - DatabaseSettings:ConnectionString=mongodb://hepsiyemekMongoDB:27017
+      - RedisCacheSettings:ConnectionString=redis:6379
+    ports:
+      - "5011:80"
+    depends_on:
+      - hepsiyemekMongoDB
+      - redis

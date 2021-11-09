@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  hepsiyemekMongoDB:
+    image: mongo
+  redis:
+    image: redis
+  menu.api:
+    image: menu_api_image
+    build:
+      context: .
+      dockerfile: Services/Menu/HepsiyemekCaseErkmenEsen.Services.Menu/Dockerfile
+volumes:
+  HepsiyemekDB_volume:

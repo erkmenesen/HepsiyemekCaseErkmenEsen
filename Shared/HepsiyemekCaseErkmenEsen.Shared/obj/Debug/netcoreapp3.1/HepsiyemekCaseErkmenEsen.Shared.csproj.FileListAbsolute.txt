@@ -1,0 +1,9 @@
+C:\Users\erkmenesen.AKADEMETRE\source\repos\HepsiyemekCaseErkmenEsen\Shared\HepsiyemekCaseErkmenEsen.Shared\bin\Debug\netcoreapp3.1\HepsiyemekCaseErkmenEsen.Shared.deps.json
+C:\Users\erkmenesen.AKADEMETRE\source\repos\HepsiyemekCaseErkmenEsen\Shared\HepsiyemekCaseErkmenEsen.Shared\bin\Debug\netcoreapp3.1\HepsiyemekCaseErkmenEsen.Shared.dll
+C:\Users\erkmenesen.AKADEMETRE\source\repos\HepsiyemekCaseErkmenEsen\Shared\HepsiyemekCaseErkmenEsen.Shared\bin\Debug\netcoreapp3.1\HepsiyemekCaseErkmenEsen.Shared.pdb
+C:\Users\erkmenesen.AKADEMETRE\source\repos\HepsiyemekCaseErkmenEsen\Shared\HepsiyemekCaseErkmenEsen.Shared\obj\Debug\netcoreapp3.1\HepsiyemekCaseErkmenEsen.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkmenesen.AKADEMETRE\source\repos\HepsiyemekCaseErkmenEsen\Shared\HepsiyemekCaseErkmenEsen.Shared\obj\Debug\netcoreapp3.1\HepsiyemekCaseErkmenEsen.Shared.AssemblyInfoInputs.cache
+C:\Users\erkmenesen.AKADEMETRE\source\repos\HepsiyemekCaseErkmenEsen\Shared\HepsiyemekCaseErkmenEsen.Shared\obj\Debug\netcoreapp3.1\HepsiyemekCaseErkmenEsen.Shared.AssemblyInfo.cs
+C:\Users\erkmenesen.AKADEMETRE\source\repos\HepsiyemekCaseErkmenEsen\Shared\HepsiyemekCaseErkmenEsen.Shared\obj\Debug\netcoreapp3.1\HepsiyemekCaseErkmenEsen.Shared.csproj.CoreCompileInputs.cache
+C:\Users\erkmenesen.AKADEMETRE\source\repos\HepsiyemekCaseErkmenEsen\Shared\HepsiyemekCaseErkmenEsen.Shared\obj\Debug\netcoreapp3.1\HepsiyemekCaseErkmenEsen.Shared.dll
+C:\Users\erkmenesen.AKADEMETRE\source\repos\HepsiyemekCaseErkmenEsen\Shared\HepsiyemekCaseErkmenEsen.Shared\obj\Debug\netcoreapp3.1\HepsiyemekCaseErkmenEsen.Shared.pdb
